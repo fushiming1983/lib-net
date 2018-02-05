@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SN_Statistic_cloudytrace_3.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib-net/libs/SN_Statistic_cloudytrace_3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
